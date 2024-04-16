@@ -8,3 +8,5 @@ coding experience otherwise.
 # Cracked!
 
 Using either A/D or the left/right arrow keys, the goal of the game is to crack as many eggs as you can in the given time limit!
+
+We are currently in the process of trying to fix the rendering of the game. Other than that, the game should be working in order.
